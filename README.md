@@ -1,7 +1,6 @@
-# CiscoDevNetMarathon
-CiscoDevNetMarathon 
+# CiscoDevNetMarathon 
 ## Lab Topology
-![Topology](/topology.png)
+![Topology](/topology.PNG)
 ```
 R1|7206VXR|C7200-SPSERVICESK9-M|PE|CDP is ON,2 peers|Clock in Sync
 R2|7206VXR|C7200-SPSERVICESK9-M|PE|CDP is ON,2 peers|Clock in Sync
